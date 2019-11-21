@@ -1,0 +1,11 @@
+{
+    "name": "eesc/eesc-assets",
+    "description": "Assets para template dos sistemas EESC",
+    "authors": [
+        {
+            "name": "Andre Canale Garcia",
+            "email": "acgarcia@sc.usp.br"
+        }
+    ],
+    "require": {}
+}
