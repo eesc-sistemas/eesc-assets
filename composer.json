@@ -7,6 +7,8 @@
             "email": "acgarcia@sc.usp.br"
         }
     ],
+    "type": "library",
+    "license": ["LGPL-3"],
     "require": {},
     "minimum-stability": "dev",
     "prefer-stable": true
