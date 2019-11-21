@@ -7,5 +7,7 @@
             "email": "acgarcia@sc.usp.br"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
